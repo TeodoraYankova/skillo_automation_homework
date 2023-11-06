@@ -27,7 +27,7 @@ public class OperationsExpressionsConditionalStatementsLoops {
             case 2 -> "-nd";
             case 3 -> "-rd";
             case 4, 5, 6, 7 -> "-th";
-            default -> "Invalid day ";
+            default -> "-th ";
         };
     }
 

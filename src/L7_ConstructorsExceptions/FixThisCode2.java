@@ -37,7 +37,5 @@ public class FixThisCode2 {
         } catch (InputMismatchException e) {
             System.out.println("error");
         }
-
-
     }
 }

@@ -24,5 +24,12 @@ public class FixThisCode {
         int howManyTimesToPrintTheTextToFile = scanner.nextInt();
 
         printToFile(getFileWriter(filePath), textToAdd, howManyTimesToPrintTheTextToFile);
+//        FileWriter fileWriter = getFileWriter(filePath);
+//        closeFileWriter(fileWriter);
     }
 }
+
+//Test:
+// test.txt
+// add this text
+// repeat 5 times

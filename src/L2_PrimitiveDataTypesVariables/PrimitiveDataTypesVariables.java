@@ -102,8 +102,8 @@ public class PrimitiveDataTypesVariables {
         System.out.println("Enter c: ");
         int c = scanner.nextInt();
 
-        //   int parameter = Math.floor();
-        //    System.out.println("Parameter: " + parameter);
+        int perimeter = a + b + c;
+        System.out.println("Perimeter: " + perimeter);
 
     }
 
