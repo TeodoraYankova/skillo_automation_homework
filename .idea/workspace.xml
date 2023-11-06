@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="848ade53-3f91-429e-818f-7237c781dddb" name="Changes" comment="new file with all homework">
-      <change afterPath="$PROJECT_DIR$/sk_automation/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sk_automation/.idea/sk_automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L8_OOP/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L8_OOP/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L8_OOP/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L8_OOP/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L8_OOP_Employee/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L2_PrimitiveDataTypesVariables/PrimitiveDataTypesVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L2_PrimitiveDataTypesVariables/PrimitiveDataTypesVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_OperationsExpressionsConditionalStatementsLoops/OperationsExpressionsConditionalStatementsLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_OperationsExpressionsConditionalStatementsLoops/OperationsExpressionsConditionalStatementsLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L6_Methods/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L6_Methods/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L7_ConstructorsExceptions/FixThisCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L7_ConstructorsExceptions/FixThisCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L7_ConstructorsExceptions/FixThisCode2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L7_ConstructorsExceptions/FixThisCode2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +20,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sk_automation" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e4acc536-4d17-402a-b0ac-7c87c4d8756a" />
+        <option name="url" value="https://github.com/Teddyyank/sk_automation.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2XfBg6MCQlXgJNZ1TgebVPZuNAo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -143,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699013201011</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new file with all homework">
+      <option name="closed" value="true" />
+      <created>1699280109378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699280109378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
