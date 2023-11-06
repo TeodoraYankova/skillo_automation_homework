@@ -10,8 +10,8 @@ public class OperationsExpressionsConditionalStatementsLoops {
 
     public static void main(String[] args) {
 
-        DaysOfWeek();
-//        UserAge();
+//        DaysOfWeek();
+        UserAge();
 //        CalculateRevenue();
 //        LargestNumber();
 //        Vacation();

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PrimitiveDataTypesVariables {
     public static void main(String[] args) {
 
-//        printName();
+       printName();
 //
 //        printTriangleParameter();
 //
@@ -19,7 +19,7 @@ public class PrimitiveDataTypesVariables {
 
 //       quadraticEquation();
 
-        minutesInDaysAndYears();
+//        minutesInDaysAndYears();
 
     }
 

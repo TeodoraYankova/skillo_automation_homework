@@ -7,9 +7,9 @@ import java.util.Scanner;
 public class DataStructures {
     public static void main(String[] args) {
 
-        sumOfArray();
+//        sumOfArray();
 //        printElementsOfMatrix();
-//        matrixWithDynamicRows();
+        matrixWithDynamicRows();
 //        biggestElementArray();
 //        reverseElementsInLinkedList();
 //        sumOFTheDiagonalMatrix();
